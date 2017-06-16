@@ -1,4 +1,4 @@
-## what is this
+## what is this?
 this is a simple twitter bot that creates a word cloud of a user's tweets using [wordcloud](https://github.com/amueller/word_cloud) to generate the cloud and [arabic_reshaper](https://github.com/mpcabd/python-arabic-reshaper) to deal with arabic text.
 
 ## why though?
